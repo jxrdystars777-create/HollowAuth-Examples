@@ -1,3 +1,5 @@
+<div align="center">
+
 HollowAuth Examples
 
 Repositorio oficial de ejemplos e integraciones para HollowAuth.
