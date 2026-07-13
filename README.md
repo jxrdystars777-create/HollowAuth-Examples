@@ -2,6 +2,16 @@
 
 HollowAuth Examples
 
+Ejemplos oficiales de integración para HollowAuth
+
+</div>
+
+[!IMPORTANT]
+HollowAuth es un proyecto personal que actualmente se encuentra en fase Beta.
+Algunas funciones, SDK, métodos y respuestas de la API pueden cambiar durante el desarrollo.
+
+HollowAuth Examples
+
 Repositorio oficial de ejemplos e integraciones para HollowAuth.
 
 Aquí encontrarás proyectos de referencia que muestran cómo integrar el sistema de autenticación de HollowAuth en diferentes lenguajes, frameworks y entornos de desarrollo.
