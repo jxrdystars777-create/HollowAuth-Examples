@@ -68,7 +68,6 @@ YOUR_LICENSE
 Para solicitar ayuda, reportar errores o enviar sugerencias:
 
 - **Discord:** [Servidor oficial de HollowAuth](https://discord.gg/AS2JtmUEvg)
-- **Correo:** `hollowauth.support@gmail.com`
 - **GitHub:** Abre un `Issue` dentro de este repositorio.
 
 > [!NOTE]
