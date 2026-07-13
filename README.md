@@ -88,3 +88,13 @@ Puedes abrir un `Issue` indicando:
 Proyecto personal en fase `Beta`.
 
 </div>
+
+## Contacto y soporte
+
+¿Necesitas ayuda con HollowAuth?
+
+- [Servidor oficial de Discord](TU_ENLACE_DE_DISCORD)
+- Correo: `support@hollowauth.com`
+
+> [!WARNING]
+> Nunca envíes licencias, contraseñas, tokens o secretos mediante canales públicos.
