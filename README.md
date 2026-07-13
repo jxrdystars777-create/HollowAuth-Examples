@@ -34,17 +34,13 @@ Repositorio oficial de examples para integrar `HollowAuth` en diferentes lenguaj
 
 Example oficial para aplicaciones de escritorio desarrolladas con `C#` y Windows Forms.
 
-```text
-/csharp
-```
+➡️ [Ver example de C#](./csharp/)
 
 ### C++
 
 Example oficial para aplicaciones de escritorio desarrolladas con `C++`.
 
-```text
-/cpp
-```
+➡️ [Ver example de C++](./cpp/)
 
 > [!TIP]
 > Los examples de `C#` y `C++` ya están disponibles y pueden utilizarse como referencia para integrar HollowAuth.
@@ -71,7 +67,7 @@ YOUR_LICENSE
 
 Para solicitar ayuda, reportar errores o enviar sugerencias:
 
-- **Discord:** [Servidor oficial de HollowAuth](TU_ENLACE_DE_DISCORD)
+- **Discord:** [Servidor oficial de HollowAuth](https://discord.gg/AS2JtmUEvg)
 - **Correo:** `hollowauth.support@gmail.com`
 - **GitHub:** Abre un `Issue` dentro de este repositorio.
 
