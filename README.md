@@ -70,9 +70,6 @@ Para solicitar ayuda, reportar errores o enviar sugerencias:
 - **Discord:** [Servidor oficial de HollowAuth](https://discord.gg/AS2JtmUEvg)
 - **GitHub:** Abre un `Issue` dentro de este repositorio.
 
-> [!NOTE]
-> Cuando tengamos un dominio oficial, el correo será reemplazado por una dirección profesional como `support@hollowauth.com`.
-
 > [!CAUTION]
 > No compartas licencias, contraseñas, tokens o secretos dentro de canales públicos.
 
